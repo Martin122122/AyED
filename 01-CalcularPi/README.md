@@ -18,4 +18,4 @@ Para resolver esto se realizaron los siguientes pasos:
 
 6-Ultilizamos el cout fixed y precision para acortar el valor de pi a la cantidad de decimas pedidas (6)
 
-7-Mostramos el valor de pi calculado por pantalla y la cantidad de iteraciones que se realizaron.
+7-Mostramos el valor de pi calculado (aux multiplicado por 4) y la cantidad de iteraciones que se realizaron.
