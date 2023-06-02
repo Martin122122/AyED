@@ -3,7 +3,7 @@ El trabajo practico 1 pedia calcular pi utilizando la serie de Liebniz, iterando
 Para resolver esto se realizaron los siguientes pasos:
 
 1-Conocer o estudiar como se calcula pi a traves de la serie Liebniz.
-2-Reconocer como escribir el calculo adecuado en c++; en este caso se uso: pow(-1,variable)/((2*variable)+1), donde las variables son las iteraciones
+2-Reconocer como escribir el calculo adecuado en c++; en este caso se uso: pow(-1,variable)/((2*variable)+1), donde las variables son las iteraciones.
 3-Definir el valor de pi pedido utilizando una constante.
 4-Definir 3 variables; en este caso "cal" para el calculo, "aux" para sumar los valores del calculo y "iter" para las iteraciones.
 5-Realizamos un While para repetir el proceso de la cuenta hasta que "aux" sea diferente de pi/4; y dentro de este realizamos:
